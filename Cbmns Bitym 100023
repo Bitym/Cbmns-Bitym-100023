@@ -1,0 +1,58 @@
+CPU
+</tr>\s+</table>
+	</tr>
+	<tr>
+		<td div="></td>
+		<td div="Part Type">CPU</td>
+		<td div="Class">Modded</td>
+		<td div="Manufacturer">Cbmns</td>
+		<td div="ID">CPU_Custom_541001</td>
+		<td div="Part Name">Bitym 100023</td>
+		<td div="In Game">Yes</td>
+		<td div="Imported to Game">Yes</td>
+		<td div="Working in game">Yes</td>
+		<td div="In Shop">Yes</td>
+		<td div="Price">20000</td>
+		<td div="SellPrice">20000</td>
+		<td div="Level">33</td>
+		<td div="Percent Through">1</td>
+		<td div="Headline"></td>
+		<td div="Concat name">(33) Cbmns Bitym 100023</td>
+		<td div="Is Scale V2">No</td>
+		<td div="Chipset">Ryzen Threadripper 3990X</td>
+		<td div="Series">AMD Ryzen Threadripper</td>
+		<td div="Frequency">9999</td>
+		<td div="Basic CPU Score">18342</td>
+		<td div="Score to value ratio">0.9</td>
+		<td div="Cores">999</td>
+		<td div="Can Overclock">Yes</td>
+		<td div="Wattage">9999</td>
+		<td div="Voltage">2.00</td>
+		<td div="Default Memory Speed">3200</td>
+		<td div="Thermal Throttling">95</td>
+		<td div="Max Freq">9999</td>
+		<td div="Max Voltage">2.00</td>
+		<td div="% increase">0</td>
+		<td div="Overclock Basic CPU Score">18342</td>
+		<td div="Overclock CPU score increase">1</td>
+		<td div="Multiplier Step">0.25</td>
+		<td div="Number of dies">2.7</td>
+		<td div="Max Memory Channels">4</td>
+		<td div="Timeframe"></td>
+		<td div="CPU Socket">sTRX4</td>
+		<td div="Model Supplied"></td>
+		<td div="Release Version"></td>
+		<td div="Is In Asset Bundle">No</td>
+		<td div="Asset Path"></td>
+		<td div="Icon Path"></td>
+		<td div="Licensor Approved">Yes</td>
+		<td div="Platform Lock"></td>
+		<td div="Product Page">https://www.pcbs-partcreator.com</td>
+		<td div="Notes">Created with the PCBS CPU Creator</td>
+		<td div="CoreClockMultiplier">0.004492</td>
+		<td div="MemChannelsMultiplier">3.459974</td>
+		<td div="MemClockMultiplier">0.006017</td>
+		<td div="FinalAdjustment">-16.4578</td>
+		<td div="DLC2 Random Jobs"></td>
+	</tr>
+</table>
